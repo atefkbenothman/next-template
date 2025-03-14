@@ -1,8 +1,9 @@
 # Next.js Template
+> Next.js typescript starter template
+
+<br />
 
 ![ci](https://github.com/atefkbenothman/next-template/actions/workflows/ci.yaml/badge.svg)
-
-> Next.js typescript starter template
 
 <br />
 
