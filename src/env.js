@@ -9,7 +9,7 @@ export const env = createEnv({
       .default("development"),
   },
   client: {
-    NEXT_PUBLIC_CLIENT_API_KEY: z.string()
+    NEXT_PUBLIC_CLIENT_API_KEY: z.string(),
   },
   runtimeEnv: {
     SERVER_API_KEY: process.env.SERVER_API_KEY,
